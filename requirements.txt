@@ -1,0 +1,15 @@
+click==7.1.2
+Flask==0.10.1
+Flask-Login==0.5.0
+flask-marshmallow==0.14.0
+Flask-SQLAlchemy==2.0
+itsdangerous==1.1.0
+Jinja2==2.7.3
+MarkupSafe==1.1.1
+marshmallow==3.17.0
+packaging==21.3
+pycryptodome==3.14.1
+pyparsing==3.0.9
+six==1.16.0
+SQLAlchemy==1.0.4
+Werkzeug==1.0.1
